@@ -1,2 +1,2 @@
-# praject
+# project
 cracked it
